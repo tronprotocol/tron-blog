@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: TRON技术博客
+title: Technical Blog
 subtitle:
-description: 区块链技术博客。
+description: Blockchain Technical Blog.
 author: tron
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
