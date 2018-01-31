@@ -119,6 +119,8 @@ menu:
   home: /
   #categories: /categories/
   #about: /about/
+  中文: /中文/
+  english: /english/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
