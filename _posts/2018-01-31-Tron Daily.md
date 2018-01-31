@@ -1,5 +1,5 @@
 ---
-title: Tron Daily
+title: Tron Daily 2018-01-31
 date: 2018-01-31 21:58:57
 categories:
 - daily
