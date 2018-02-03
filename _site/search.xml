@@ -1,4 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   
+    <entry>
+      <title><![CDATA[Tron Daily 2018-02-02]]></title>
+      <url>/daily/2018/02/03/Tron-Daily/</url>
+      <content type="html"><![CDATA[<h1 id="tron-daily">Tron Daily</h1>
+
+<ol>
+  <li><strong>[Wallet]</strong> Modify the function of create transaction and broadcast transaction;</li>
+  <li><strong>[Smart Contract]</strong> Develop the editor of smart contract;</li>
+  <li><strong>[Consensus]</strong> Start to develop the specific framework of consensus mechanism.</li>
+</ol>
+]]></content>
+      <categories>
+        
+          <category> daily </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> daily </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
+      <title><![CDATA[Tron Daily 2018-02-01]]></title>
+      <url>/daily/2018/02/02/Tron-Daily%E7%9A%84/</url>
+      <content type="html"><![CDATA[<h1 id="tron-daily">Tron Daily</h1>
+
+<ol>
+  <li><strong>[Wallet]</strong> Independence wallet client;</li>
+  <li><strong>[Smart Contract]</strong> Start to integration between smart contract  and blockchain.</li>
+</ol>
+
+]]></content>
+      <categories>
+        
+          <category> daily </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> daily </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
+      <title><![CDATA[Tron Daily 2018-01-31]]></title>
+      <url>/daily/2018/02/01/Tron-Daily/</url>
+      <content type="html"><![CDATA[<h1 id="tron-daily">Tron Daily</h1>
+
+<ol>
+  <li>
+    <p><strong>[Consensus]</strong> Define the interface function to create a new block in the Consensus Module. Implemented Block class for testing consensus (Defined the required fields in the block);</p>
+  </li>
+  <li>
+    <p><strong>[Wallet]</strong> Modify the proto reference, used Google format to modify the code uploaded to GitHub. Complete the transaction signature and verification of the code;</p>
+  </li>
+  <li>
+    <p><strong>[Overall Structure]</strong> Improved the test framework and used an exponential half-fold algorithm to describe the summary information of the local blocks. This method can use as less data as possible to describe the local node, meantime the much information as possible to synchronize with the remote block;</p>
+  </li>
+  <li>
+    <p><strong>[Network]</strong> Add network part log and fix typo error.</p>
+  </li>
+</ol>
+
+]]></content>
+      <categories>
+        
+          <category> daily </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> daily </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
+      <title><![CDATA[Welcom to TRON's Blog]]></title>
+      <url>/welcome/2018/01/30/Welcom-to-TRON's-Blog/</url>
+      <content type="html"><![CDATA[<h1 id="tron-is-a-decentralized-content-entertainment-protocol-based-on-blockchain-technology">Tron is a decentralized content entertainment protocol based on blockchain technology.</h1>
+
+<p>Tron strives to construct a global free content entertainment system, utilizing blockchain technology. This protocol allows each user to freely publish, store, and own data. The issuance, circulation, and trading of digital assets,
+through decentralized self governance, lay the foundation for the distribution and subscription of content, thereby empowering content creators as well as forming a decentralized content entertainment ecosystem.
+The app partners of Tron protocol include Peiwo, Obike, Gifto, Uplive, with a total of 4 millions users, making Tron a blockchain protocol with the most DAPP users in the world.</p>
+]]></content>
+      <categories>
+        
+          <category> welcome </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> welcome </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
 </search>
