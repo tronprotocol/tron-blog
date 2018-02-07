@@ -10,5 +10,5 @@ tags:
 # Tron Daily
 
 
-1. **[Optimize]** Improve todo list of project : achieving data according to hash and type ,P2P Delay operation of waiting for the node connection；
+1. **[Optimize]** Improve todo list of project : achieving data according to hash and type，P2P delay operation of waiting for the node connection；
 2. **[Network]** Multithreading handle the received message.
