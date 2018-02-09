@@ -10,5 +10,6 @@ tags:
 # Tron Daily
 
 
-1. **[Smart Contract]** Fix smart contract operation bug of subtraction and division.Debug and fix the compiler of smart contract.
-2. **[Coding Standards]** Use the format of Google Check Style optimize test module code. Modify the auto build script to ignore check style checking of automatically generated code when building the project.
+1. **[Smart Contract]** Fix the bug of subtraction and division in smart contract. Debug and fix the compiler of smart contract.
+2. **[Coding Standards]** Using the format of Google Check Style to optimize test module code. Modify the auto build script to ignore Check Style checking of generated code automatically when building the project.
+
